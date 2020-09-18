@@ -1,0 +1,8 @@
+---
+name: African Blue
+brand: Tchibo
+recipes:
+  - frenchPress:
+    mill: 24
+    weight: 17
+    water: 300
