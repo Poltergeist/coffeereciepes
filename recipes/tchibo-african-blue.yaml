@@ -6,3 +6,4 @@ recipes:
     mill: 24
     weight: 17
     water: 300
+    brew_time: 300
