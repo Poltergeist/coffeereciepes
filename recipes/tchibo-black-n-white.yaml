@@ -1,0 +1,9 @@
+---
+name: Black `n White
+brand: Tchibo
+recipes:
+  - frenchPress:
+    mill: 24
+    weight: 17
+    water: 300
+    brew-time: 180
