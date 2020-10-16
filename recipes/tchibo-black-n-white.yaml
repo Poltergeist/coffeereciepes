@@ -7,3 +7,7 @@ recipes:
     weight: 17
     water: 300
     brew-time: 180
+  - pourOver:
+    mill: 16
+    weight: 17
+    water: 250
